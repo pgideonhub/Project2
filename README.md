@@ -1,2 +1,2 @@
 # Project2
-Python code
+Python Scripts
