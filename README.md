@@ -1,2 +1,2 @@
-# instacart_project
+# instacart
 Python Scripts
