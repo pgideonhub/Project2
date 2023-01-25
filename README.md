@@ -1,6 +1,6 @@
 # instacart_analysis
 
-![image](https://user-images.githubusercontent.com/123508601/214715885-c066d0f5-50b2-48b4-a6cb-e1065ec4ae72.png)
+![image](https://user-images.githubusercontent.com/123508601/214715997-5cbd2f07-b9dd-404f-8e74-7f376018d26c.png)
 
 Instacart is an online grocery store that operates through an app.
 
