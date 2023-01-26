@@ -6,4 +6,4 @@ Instacart is an online grocery store that operates through an app.
 
 ## Objective
 
-The objective of this study is to analyse the customers in their database along with their purchasing behaviours to inform the targeted marketing campaign strategy and drive growth. 
+The objective of this study is to analyse instacart customers and purchasing behaviours to inform the targeted marketing campaign strategy and drive growth. 
