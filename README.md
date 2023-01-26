@@ -10,4 +10,4 @@ The objective of this study is to analyse instacart customers and purchasing beh
 
 ## Data
 
-Open source data provided by Instacart and available at: (https://www.instacart.com/datasets/grocery-shopping-2017)
+["The Instacart Online Grocery Shopping Dataset 2017"](https://www.instacart.com/datasets/grocery-shopping-2017)
