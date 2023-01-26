@@ -10,7 +10,7 @@ The objective of this study is to analyse instacart customers and purchasing beh
 
 ## Data
 
-Original dataset: ["The Instacart Online Grocery Shopping Dataset 2017"](https://www.instacart.com/datasets/grocery-shopping-2017)
+Original opensource dataset: ["The Instacart Online Grocery Shopping Dataset 2017"](https://www.instacart.com/datasets/grocery-shopping-2017)
 
 Note: The 'Customer' dataset and 'prices' column (in the 'Products' dataset) were fabricated for this course and used for learning purposes only.
 
